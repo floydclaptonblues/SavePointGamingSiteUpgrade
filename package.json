@@ -1,0 +1,1 @@
+{"name":"savepoint-gaming-upgrade","private":true,"type":"module","scripts":{"start":"node server.mjs","build":"node build.mjs","test":"node --test"},"engines":{"node":">=20"}}
