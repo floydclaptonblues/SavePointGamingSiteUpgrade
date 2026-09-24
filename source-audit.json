@@ -1,0 +1,39 @@
+{
+  "source": "https://savepoint-gaming.com",
+  "checkedAt": "2026-09-24",
+  "inventoryImportStatus": "blocked-public-shop-coming-soon",
+  "observations": [
+    {
+      "url": "https://savepoint-gaming.com/shop/",
+      "finding": "Public shop shows a coming-soon notice"
+    },
+    {
+      "url": "https://savepoint-gaming.com/NES",
+      "finding": "No visible product listings"
+    },
+    {
+      "url": "https://savepoint-gaming.com/SNES",
+      "finding": "Link from Nintendo landing page leads to missing page"
+    }
+  ],
+  "consoleFamilies": [
+    "Atari",
+    "Nintendo",
+    "Sega",
+    "PlayStation",
+    "Xbox",
+    "Panasonic 3DO"
+  ],
+  "nintendoLinks": [
+    "https://savepoint-gaming.com/NES",
+    "https://savepoint-gaming.com/SNES",
+    "https://savepoint-gaming.com/virtualboy",
+    "https://savepoint-gaming.com/N64",
+    "https://savepoint-gaming.com/Gamecube",
+    "https://savepoint-gaming.com/Wii",
+    "https://savepoint-gaming.com/Wii%20U",
+    "https://savepoint-gaming.com/Switch"
+  ],
+  "requiredForImport": "WooCommerce product export or publicly accessible listings",
+  "ratingDefinition": "Awaiting confirmation: ESRB, review score or both"
+}
